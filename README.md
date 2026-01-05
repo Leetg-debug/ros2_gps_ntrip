@@ -2,7 +2,7 @@
 
 이 레포지토리는 **u-blox ZED-F9P GNSS RTK 수신기**를 ROS 2 (Jazzy 기준) 환경에서 사용하기 위해
 
-- GNSS 드라이버 (`ublox_gps`)
+- GNSS 드라이버 (`ublox_gps`)v
 - NTRIP 클라이언트 (`ntrip_client`)
 - GNSS + RTCM 통합 런처 (`combined_rtk`)
 
